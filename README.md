@@ -1,7 +1,9 @@
 # Using threat maps for cost-effective prioritization of actions to conserve coastal habitats
 
 R scripts for running the analyses in Giakoumi et al. 2015 Marine Policy 61 (95-102)
+
 URL: http://www.sciencedirect.com/science/article/pii/S0308597X15002055
+
 Please cite Giakoumi et al. 2015 if you are using this work
 
 Files/folders:
